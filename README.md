@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# World Weather Analysis
+The purpose of this project was to generate different types of interactive GoogleMaps in order to explore vacation destinations. A selection of over 1500 cities was generated randomly. Weather data was then pulled from OpenWeatherAPI and used to allow the client the ability to see destinations based on their min and max temperature (F) preference. Map markers were used to display hotel information for each of the cities. The client then would pick 4 cities within a reasonable vicinity of each other and then a travel map was generated using the Google DIrections API.
